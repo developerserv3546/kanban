@@ -1,4 +1,7 @@
-## Kanban Board example with React
+## Kanban Board example with react-beautiful-dnd
+
+Live example - [https://developerserv3546.github.io/kanban/](https://developerserv3546.github.io/kanban/)
+
 
 ![GitHub Logo](./src/images/kanban.png)
 
