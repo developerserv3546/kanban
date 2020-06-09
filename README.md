@@ -1,4 +1,4 @@
-##Kanban Board example with React
+## Kanban Board example with React
 
 ![GitHub Logo](./src/images/kanban.png)
 
